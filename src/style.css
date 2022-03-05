@@ -1,0 +1,46 @@
+h1,
+p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container {
+  text-align: center;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+
+.card {
+  cursor: pointer;
+  background-color: purple;
+  color: orange;
+  width: 130px;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  margin-top: 20%;
+  border-radius: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 1.3em;
+  border: solid;
+}
+
+.counter {
+  background-color: rgb(45, 224, 45);
+  margin-top: 10%;
+  width: 20px;
+  padding: 10px;
+  border-radius: 50px;
+  border: solid;
+  border-color: purple;
+  margin-left: 40%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 1.1em;
+  color: purple;
+}
+
+.info {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-top: 10%;
+  text-align: center;
+}
